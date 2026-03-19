@@ -4,7 +4,7 @@ PSF CMAP
  REMARKS original generated structure x-plor psf file
  REMARKS 5 patches were applied to the molecule.
  REMARKS topology top_all36_prot.rtf 
- REMARKS topology toppar_water_ions_namd.str 
+ REMARKS topology toppar_water_ions_namd_prot.str 
  REMARKS segment P { first NTER; last CTER; auto angles dihedrals }
  REMARKS defaultpatch CTER P:58  
  REMARKS defaultpatch NTER P:1  
